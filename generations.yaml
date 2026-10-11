@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_GLA"
+
+generations:
+  - name: "First Generation (X156)"
+    start_year: 2014
+    end_year: 2020
+    description: "A compact crossover on the W176 A-Class's MFA platform."
+  - name: "Second Generation (H247)"
+    start_year: 2020
+    end_year: null
+    description: "On the MFA2 platform shared with the W177 A-Class and the GLB."
