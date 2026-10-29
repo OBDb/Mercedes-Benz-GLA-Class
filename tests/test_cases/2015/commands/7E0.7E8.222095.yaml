@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222095
+test_cases:
+- expected_values:
+    GLA_EOT: 98.55
+  response: '7E80462209571'
+- expected_values:
+    GLA_EOT: 101.25
+  response: '7E80462209573'

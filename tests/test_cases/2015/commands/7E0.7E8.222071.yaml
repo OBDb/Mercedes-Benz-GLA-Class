@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222071
+test_cases:
+- expected_values:
+    GLA_FUEL_RAIL_P: 13859.89826
+  response: 7E8056220716C4F
+- expected_values:
+    GLA_FUEL_RAIL_P: 15463.98141
+  response: 7E80562207178D8
+- expected_values:
+    GLA_FUEL_RAIL_P: 15839.38386
+  response: 7E8056220717BC7
+- expected_values:
+    GLA_FUEL_RAIL_P: 17883.85257
+  response: 7E8056220718BC1
