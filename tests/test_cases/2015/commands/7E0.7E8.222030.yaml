@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222030
+test_cases:
+- expected_values:
+    GLA_FUEL_TANK_LEVEL: 55.9635
+  response: '7E8056220300230'
